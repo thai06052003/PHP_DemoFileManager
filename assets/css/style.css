@@ -1,0 +1,13 @@
+table a {
+    text-decoration: none;
+    color: #333;
+}
+
+.label-block {
+    display: block;
+    font-weight: bold;
+}
+.back {
+    display: block;
+    width: 100%;
+}
